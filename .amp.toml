@@ -1,0 +1,15 @@
+version = 1
+
+[character]
+name = "amp-example-python"
+version = "0.0.1"
+authors = ["Eguo Wang <wangeguo@gmail.com>"]
+edition = "v1"
+description = "A simple Python example app"
+readme = "README.md"
+homepage = "https://github.com/amphitheatre-app/amp-example-python"
+repository = "https://github.com/amphitheatre-app/amp-example-python"
+license = "Apache-2.0"
+license-file = "LICENSE"
+keywords = ["example", "python", "getting-started"]
+categories = ["example"]
